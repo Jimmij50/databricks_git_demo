@@ -1,0 +1,10 @@
+[project]
+name = "ci-cd"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "databricks-connect>=18.1.2",
+    "databricks-sdk>=0.105.0",
+    "python-dotenv>=1.2.2",
+]
