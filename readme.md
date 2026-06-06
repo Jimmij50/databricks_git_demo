@@ -1,2 +1,2 @@
 test 
-see if the protection rule applied 
+test if the rules work
